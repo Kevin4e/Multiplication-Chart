@@ -1,7 +1,7 @@
 Multiplication Chart ##
 A command line program that offers unlimited multiplication exercises. Useful for improving math skills.
 
-# Usage ##
+# Usage 
 - Type 1 for 10x10 chart;
 
 - Type 2 for 100x100 chart;
@@ -10,5 +10,5 @@ A command line program that offers unlimited multiplication exercises. Useful fo
 
 - Type 0 for program restart + choose another chart, or the same.
 
-#### Note
+## Note
 Huge numbers will lead to an integer overflow.
