@@ -15,18 +15,11 @@ A command line program that offers unlimited multiplication exercises and a chal
 -  Challenge Mode does not allow you to return to the main menu.
 
 ## Interface
-
 <strong>Practice Mode</strong><br>
 <img src="https://github.com/user-attachments/assets/4ae1a32a-eaf0-4006-8f32-11b31b2774fc" alt="Practice Mode"><br>
 
 <strong>Challenge Mode</strong><br>
 <img src="https://github.com/user-attachments/assets/b345ed31-aace-493d-ba35-b0adcc6e9fa0" alt="Challenge Mode"><br>
-
-**Practice Mode**
-![Practice Mode](https://github.com/user-attachments/assets/4ae1a32a-eaf0-4006-8f32-11b31b2774fc)
-
-**Challenge Mode**
-![Challenge Mode](https://github.com/user-attachments/assets/b345ed31-aace-493d-ba35-b0adcc6e9fa0)
 
 ## Troubleshooting
 There shouldn't be any problems with this program. If you encounter any, please submit an issue [here](https://github.com/Kevin4e/MultiplicationChart/issues).
