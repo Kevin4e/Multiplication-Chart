@@ -16,6 +16,12 @@ A command line program that offers unlimited multiplication exercises and a chal
 
 ## Interface
 
+<strong>Practice Mode</strong><br>
+<img src="https://github.com/user-attachments/assets/4ae1a32a-eaf0-4006-8f32-11b31b2774fc" alt="Practice Mode"><br>
+
+<strong>Challenge Mode</strong><br>
+<img src="https://github.com/user-attachments/assets/b345ed31-aace-493d-ba35-b0adcc6e9fa0" alt="Challenge Mode"><br>
+
 **Practice Mode**
 ![Practice Mode](https://github.com/user-attachments/assets/4ae1a32a-eaf0-4006-8f32-11b31b2774fc)
 
