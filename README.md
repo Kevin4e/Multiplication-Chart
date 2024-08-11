@@ -27,11 +27,10 @@ There shouldn't be any problems with this program. If you encounter any, please 
 
 ## Changelog
 **v2.0**
-Completely revamped the program:
-  -  Added challenge mode;
-  -  Used headers for new functions;
-  -  Better structure;
-  -  Better random numbers generator.
+-  Added challenge mode;
+-  Used headers for new functions;
+-  Better structure;
+-  Better random numbers generator.
 
 **v1.0**
 -  Initial release.
