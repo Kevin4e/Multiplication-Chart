@@ -42,7 +42,7 @@ There shouldn't be any problems with this program. If you encounter any, please 
 ## Changelog
 **v2.1**
 -  Removed 'Program Restart' option in the Main Menu;
--  Minor Changes;
+-  Minor changes;
 -  Source codes cleanup.
 
 **v2.0**
