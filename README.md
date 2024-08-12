@@ -1,5 +1,4 @@
 # Multiplication Chart
-A command line program that offers unlimited multiplication exercises and a challenge game. Useful for improving math skills.
 
 ## Usage
 **Main Menu**
