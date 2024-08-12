@@ -26,7 +26,7 @@
 
 -  Level 3: get 20 correct answers to win;
 
-## Note
+## Notes
 -  Huge numbers will lead to an integer overflow.
 
 -  Challenge Mode does not allow you to return to the main menu.
