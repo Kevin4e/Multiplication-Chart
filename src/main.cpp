@@ -1,5 +1,6 @@
 #include <iostream>
 
+// Includes Practice and Challenge Functions //
 #include "../includes/modes.h"
 
 int main() {

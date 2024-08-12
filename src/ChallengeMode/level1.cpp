@@ -2,9 +2,13 @@
 #include <random>
 #include <chrono>
 
+// Includes Challenge Function //
 #include "../../includes/ChallengeMode/challenge.h"
+
+// Includes "attemptsNULL" Function //
 #include "../../includes/ChallengeMode/attemptsNULL.h"
 
+// "pass Level 1" Function when 'correctAnswers' becomes 5 //
 bool passLevel_1(unsigned int correctAnswers){
     return correctAnswers >= 5;
 }
@@ -47,12 +51,14 @@ void level1(){
             userAttempts--;
         }
 
+        // Checks if 'correctAnswers' is 5 //
         if (passLevel_1(correctAnswers) ) {
             std::cout << "Congratulations! You are now at Level 2." << std::endl;
             std::cout << std::endl;
             level2();
         }
 
+        // Checks if 'userAttempts' is 0 //
         else if (attemptsNULL(userAttempts) ) {
             std::cout << "Game over! Better luck next time." << std::endl;
 
@@ -62,6 +68,7 @@ void level1(){
 
             std::cout << "Press 'X' button to close the program." << std::endl;
 
+            // Infinite loop //
             while (true) {
                 std::cin.get();
             }

@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "../../includes/PracticeMode/practice.h"
+// Includes Practice Function and "chooseMode" Function //
 #include "../../includes/modes.h"
 
 void startPractice() {

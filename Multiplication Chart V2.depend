@@ -46,13 +46,13 @@
 	<ctime>
 	"../includes/game.h"
 
-1723394859 source:c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\src\challengemode\attemptsnull.cpp
+1723500651 source:c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\src\challengemode\attemptsnull.cpp
 	<iostream>
 	"../../includes/ChallengeMode/attemptsNULL.h"
 
-1723320304 c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\includes\challengemode\attemptsnull.h
+1723498706 c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\includes\challengemode\attemptsnull.h
 
-1723485882 source:c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\src\challengemode\level1.cpp
+1723500405 source:c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\src\challengemode\level1.cpp
 	<iostream>
 	<random>
 	<chrono>
@@ -64,20 +64,20 @@
 	"level2.h"
 	"level3.h"
 
-1723316511 c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\includes\challengemode\level1.h
+1723498651 c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\includes\challengemode\level1.h
 
-1723316615 c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\includes\challengemode\level2.h
+1723498662 c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\includes\challengemode\level2.h
 
-1723316610 c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\includes\challengemode\level3.h
+1723498668 c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\includes\challengemode\level3.h
 
-1723485897 source:c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\src\challengemode\level2.cpp
+1723500418 source:c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\src\challengemode\level2.cpp
 	<iostream>
 	<random>
 	<chrono>
 	"../../includes/ChallengeMode/challenge.h"
 	"../../includes/ChallengeMode/attemptsNULL.h"
 
-1723485905 source:c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\src\challengemode\level3.cpp
+1723500426 source:c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\src\challengemode\level3.cpp
 	<iostream>
 	<random>
 	<chrono>
@@ -91,7 +91,7 @@
 	"../../includes/PracticeMode/practice.h"
 	"../../includes/modes.h"
 
-1723394893 c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\includes\practicemode\practice.h
+1723498866 c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\includes\practicemode\practice.h
 	"chart10x10.h"
 	"chart100x100.h"
 	"chart1000x1000.h"
@@ -109,7 +109,7 @@
 	"../../includes/PracticeMode/practice.h"
 	"../../includes/modes.h"
 
-1723466488 source:c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\src\practicemode\chart10x10.cpp
+1723499599 source:c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\src\practicemode\chart10x10.cpp
 	<iostream>
 	<random>
 	<chrono>
@@ -123,28 +123,27 @@
 	"../../includes/ChallengeMode/level3.h"
 	"../../includes/ChallengeMode/game.h"
 
-1723417125 source:c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\src\main.cpp
+1723499068 source:c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\src\main.cpp
 	<iostream>
 	"../includes/modes.h"
 
-1723481064 source:c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\src\practicemode\practice.cpp
+1723500827 source:c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\src\practicemode\practice.cpp
 	<iostream>
-	"../../includes/PracticeMode/practice.h"
 	"../../includes/modes.h"
 
-1723485594 c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\includes\modes.h
+1723501017 c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\includes\modes.h
 	"PracticeMode/practice.h"
 	"ChallengeMode/challenge.h"
 
-1723485558 source:c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\src\modes.cpp
+1723499096 source:c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\src\modes.cpp
 	<iostream>
 	"../includes/modes.h"
 
-1723495435 source:c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\src\challengemode\challenge.cpp
+1723500756 source:c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\src\challengemode\challenge.cpp
 	<iostream>
 	"../../includes/ChallengeMode/challenge.h"
 
-1723474004 c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\includes\challengemode\challenge.h
+1723498852 c:\users\administrator\desktop\kevin\informatica\c++ progetti\codeblocks\esercizi per allenarsi\multiplication chart v2\includes\challengemode\challenge.h
 	"level1.h"
 	"level2.h"
 	"level3.h"

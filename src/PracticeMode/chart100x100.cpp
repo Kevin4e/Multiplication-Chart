@@ -2,7 +2,7 @@
 #include <random>
 #include <chrono>
 
-#include "../../includes/PracticeMode/practice.h"
+// Includes Practice Function and "chooseMode" Function //
 #include "../../includes/modes.h"
 
 void chart100x100() {
