@@ -19,14 +19,6 @@ A command line program that offers unlimited multiplication exercises and a chal
 -  Level 2: get 10 correct answers to proceed;
 -  Level 3: get 20 correct answers to win;
 
-- Type 1 for 10x10 chart;
-
-- Type 2 for 100x100 chart;
-
-- Type 3 for 1000x1000 chart;
-
-- Type 0 for program restart + choose another chart, or the same.
-
 ## Note
 -  Huge numbers will lead to an integer overflow.
 -  Challenge Mode does not allow you to return to the main menu.
