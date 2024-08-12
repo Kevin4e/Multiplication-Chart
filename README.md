@@ -29,7 +29,7 @@
 
 -  Challenge Mode does not allow you to return to the main menu.
 
-## Interface
+## Interface (v2.0)
 <strong>Practice Mode</strong><br>
 <img src="https://github.com/user-attachments/assets/4ae1a32a-eaf0-4006-8f32-11b31b2774fc" alt="Practice Mode"><br>
 
