@@ -29,6 +29,7 @@ A command line program that offers unlimited multiplication exercises and a chal
 
 ## Note
 -  Huge numbers will lead to an integer overflow.
+
 -  Challenge Mode does not allow you to return to the main menu.
 
 ## Interface
