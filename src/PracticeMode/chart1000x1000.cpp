@@ -3,9 +3,7 @@
 #include <chrono>
 
 #include "../../includes/PracticeMode/practice.h"
-#include "../../includes/PracticeMode/chart1000x1000.h"
 #include "../../includes/modes.h"
-
 
 void chart1000x1000() {
     std::cout << "Let's start!" << std::endl;

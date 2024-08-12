@@ -3,7 +3,6 @@
 #include <chrono>
 
 #include "../../includes/PracticeMode/practice.h"
-#include "../../includes/PracticeMode/chart10x10.h"
 #include "../../includes/modes.h"
 
 void chart10x10() {

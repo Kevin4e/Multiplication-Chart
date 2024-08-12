@@ -3,7 +3,6 @@
 #include <chrono>
 
 #include "../../includes/ChallengeMode/challenge.h"
-#include "../../includes/modes.h"
 #include "../../includes/ChallengeMode/attemptsNULL.h"
 
 bool passLevel_2(unsigned int correctAnswers){
@@ -56,12 +55,12 @@ void level2(){
 
         else if (attemptsNULL(userAttempts) ) {
             std::cout << "Game over! Better luck next time." << std::endl;
-            std::cout << std::endl;
-            std::cout << "Press 'X' button to close the program." << std::endl;
 
             std::cout << std::endl;
             std::cout << std::endl;
             std::cout << std::endl;
+
+            std::cout << "Press 'X' button to close the program." << std::endl;
 
             while (true) {
                 std::cin.get();

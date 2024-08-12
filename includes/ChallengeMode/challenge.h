@@ -7,4 +7,4 @@
 
 void startChallenge();
 
-#endif
+#endif // CHALLENGE_H
