@@ -4,19 +4,27 @@ A command line program that offers unlimited multiplication exercises and a chal
 ## Usage
 **Main Menu**
 -  Type 1 to join **Practice Mode**;
+
 -  Type 2 to join **Challenge Mode**;
+
 -  Type 0 for Main Menu restart;
  
 **Practice Mode**
 -  Type 1 for 10x10 chart;
+
 -  Type 2 for 100x100 chart;
+
 -  Type 3 for 1000x1000 chart;
+
 -  Type 0 for Main Menu restart;
+
 -  Type -1 for Practice Mode restart + choose another chart, or the same;
 
 **Challenge Mode**
 -  Level 1: get 5 correct answers to proceed;
+
 -  Level 2: get 10 correct answers to proceed;
+
 -  Level 3: get 20 correct answers to win;
 
 ## Note
