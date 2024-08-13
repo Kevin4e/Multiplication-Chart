@@ -43,8 +43,7 @@ There shouldn't be any problems with this program. If you encounter any, please 
 **v2.1**
 -  Removed 'Program Restart' option in the Main Menu;
 -  Minor changes;
--  Source codes cleanup;
--  Added comments.
+-  Source codes cleanup;
 
 **v2.0**
 -  Added challenge mode;
