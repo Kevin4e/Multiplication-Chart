@@ -4,7 +4,7 @@
 **Main Menu**
 -  Type 1 to join **Practice Mode**;
 
--  Type 2 to join **Challenge Mode**;
+-  Type 2 to join **Challenge Mode**.
 
 **Practice Mode**
 -  Type 1 for 10x10 chart;
@@ -43,7 +43,7 @@ There shouldn't be any problems with this program. If you encounter any, please 
 **v2.1**
 -  Removed 'Program Restart' option in the Main Menu;
 -  Minor changes;
--  Source codes cleanup;
+-  Source codes cleanup.
 
 **v2.0**
 -  Added challenge mode;
